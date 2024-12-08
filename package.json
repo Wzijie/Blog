@@ -95,7 +95,7 @@
     "highlight.js": "^10.0.3",
     "less": "^3.11.1",
     "less-loader": "^6.1.0",
-    "markdown-it": "^11.0.0"
+    "markdown-it": "^12.3.2"
   },
   "jest": {
     "roots": [
